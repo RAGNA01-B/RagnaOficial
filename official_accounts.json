@@ -1,0 +1,48 @@
+{
+"info": {
+"accounts": {
+"youTube": "https://youtube.com/@ragnabot-0",
+"instagram": "https://www.instagram.com/ragnabot.dzn",
+"gatabot_md": "https://www.instagram.com/ragnabot.dzn",
+"gatabotlite_md": "https://www.instagram.com/ragnabot.dzn",
+"facebook": "https://www.instagram.com/ragnabot.dzn",
+"tiktok": "https://www.instagram.com/ragnabot.dzn",
+"threads": "https://atom.bio/ragnabot",
+"paypal": "https://atom.bio/ragnabot",
+"github": "https://atom.bio/ragnabot",
+"mail": "https://atom.bio/ragnabot",
+"all": "https://atom.bio/ragnabot"
+},
+"channels": {
+"channel1": "https://whatsapp.com/channel/0029VaxGHbk0VycH76kD4M1w",
+"channel2": "https://whatsapp.com/channel/0029VaxGHbk0VycH76kD4M1w",
+"channel3": "https://whatsapp.com/channel/0029VaxGHbk0VycH76kD4M1w",
+"channel4": "https://whatsapp.com/channel/0029VaxGHbk0VycH76kD4M1w"
+},
+"groups": {
+"group1": "https://chat.whatsapp.com/GOQBEelnmES4pXdlZbs6EP",
+"group2": "https://chat.whatsapp.com/GOQBEelnmES4pXdlZbs6EP",
+"group3": "https://chat.whatsapp.com/GOQBEelnmES4pXdlZbs6EP",
+"group4": "https://chat.whatsapp.com/GOQBEelnmES4pXdlZbs6EP",
+"group5": "https://chat.whatsapp.com/GOQBEelnmES4pXdlZbs6EP",
+"group6": "https://chat.whatsapp.com/GOQBEelnmES4pXdlZbs6EP"
+},
+"collaboration": {
+"group1": "https://chat.whatsapp.com/GOQBEelnmES4pXdlZbs6EP",
+"group2": "https://chat.whatsapp.com/GOQBEelnmES4pXdlZbs6EP",
+"group3": "https://chat.whatsapp.com/GOQBEelnmES4pXdlZbs6EP",
+"group4": "https://chat.whatsapp.com/GOQBEelnmES4pXdlZbs6EP"
+},
+"sponsors": {
+"boxmine": "https://whatsapp.com/channel/0029VaxGHbk0VycH76kD4M1w",
+"cafirexos": "https://whatsapp.com/channel/0029VaxGHbk0VycH76kD4M1w",
+"vortexus": "https://www.atom.bio/ragnabot",
+"asif": "https://www.atom.bio/ragnabot"
+},
+"others": {
+"assistance_num": "https://wa.me/message/7I73EVE32LJJK1",
+"yt_vid": "https://www.atom.bio/ragnabot",
+"group_support": "https://wa.me/message/7I73EVE32LJJK1"
+}
+}
+}
