@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/Richetti123/MichiBot6",
+  "homepage": "https://github.com/RAGNA01-B/Ragnaficial",
   "author": {
-    "name": "BrunoSobrino"
+    "name": "RAGNA01-B"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Richetti123/MichiBot6.git"
+    "url": "git+https://github.com/RAGNA01-B/Ragnaficial.git"
   },
   "bugs": {
-    "url": "https://github.com/Richetti123/MichiBot6/issues"
+    "url": "https://github.com/RAGNA01-B/Ragnaficial/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
